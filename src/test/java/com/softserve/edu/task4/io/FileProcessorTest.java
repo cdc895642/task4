@@ -1,9 +1,7 @@
 package com.softserve.edu.task4.io;
 
 import org.junit.Test;
-import org.mockito.stubbing.OngoingStubbing;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
